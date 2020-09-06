@@ -1,0 +1,14 @@
+
+
+Version:	3.12
+CmdLine:	D:\Documents\Училище\Coding\HanoiTower\Launch\HanoiTower.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Documents\Училище\Coding\HanoiTower\Launch\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	bin\jre1.8.0_261
+Check launcher:	D:\Documents\Училище\Coding\HanoiTower\Launch\bin\jre1.8.0_261\bin\javaw.exe (OK)
+Launcher:	D:\Documents\Училище\Coding\HanoiTower\Launch\bin\jre1.8.0_261\bin\javaw.exe
+Launcher args:	-jar "D:\Documents\Училище\Coding\HanoiTower\Launch\HanoiTower.exe"
+Args length:	67/32768 chars
+Exit code:	0
