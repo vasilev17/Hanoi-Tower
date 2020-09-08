@@ -18,7 +18,7 @@ When you run the app you will be asked to input the number of disks you want to 
 
 After you enter the number of disks you need to click the **"Submit"** button and the app will start moving disks around, solving them:
 
-![image app solving](https://scontent.fsof9-1.fna.fbcdn.net/v/t1.15752-9/118874591_370557413945548_2079317380555531183_n.png?_nc_cat=101&_nc_sid=b96e70&_nc_ohc=Gsm0J3MBFn8AX_WnWGP&_nc_ht=scontent.fsof9-1.fna&oh=8ed0f07b390dd94c0f527ed72dc1c521&oe=5F7EA813)
+![image app solving](https://s8.gifyu.com/images/Tower-of-Hanoi-solver.gif)
 
 
 
