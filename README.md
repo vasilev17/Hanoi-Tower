@@ -1,4 +1,4 @@
-# Tower of Hanoi
+# Tower of Hanoi visual solver
 
 This JavaFX visually solves the "Tower of Hanoi" puzzle game using the fastest and most efficient algorithm.
 
