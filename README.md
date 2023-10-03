@@ -15,13 +15,13 @@ Hanoi-Tower-master\Launch\HanoiTower.exe
 When you run the app you will be asked to input the number of disks you want to watch being solved (1-8):
 
 <p align="center">
-  <img src="https://i.ibb.co/8z3gn4s/test.gif">
+  <img src="https://i.ibb.co/KDSkhfB/test.png">
 </p>
 
 
 After you enter the number of disks you need to click the **"Submit"** button and the app will start moving disks around, solving them:
 
-![image app solving](https://s8.gifyu.com/images/Tower-of-Hanoi-solver.gif)
+![image app solving](https://i.ibb.co/8z3gn4s/test.gif)
 
 
 
